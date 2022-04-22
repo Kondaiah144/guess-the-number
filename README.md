@@ -1,2 +1,1 @@
-# guess-the-number
-For Demo
+guess-the-number
